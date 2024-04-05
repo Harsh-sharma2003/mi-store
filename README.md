@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # MI_STORE
 # MI_STORE.
 # MI_STORE
+# mi-store
